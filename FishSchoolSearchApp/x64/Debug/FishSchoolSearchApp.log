@@ -1,0 +1,4 @@
+﻿  OptTask.cpp
+c:\users\юрий\documents\visual studio 2015\projects\fishschoolsearchapp\fishschoolsearchapp\opttask.cpp(11): warning C4715: 'OptTask::getTask': not all control paths return a value
+  FishSchoolSearchApp.vcxproj -> C:\Users\Юрий\documents\visual studio 2015\Projects\FishSchoolSearchApp\x64\Debug\FishSchoolSearchApp.exe
+  FishSchoolSearchApp.vcxproj -> C:\Users\Юрий\documents\visual studio 2015\Projects\FishSchoolSearchApp\x64\Debug\FishSchoolSearchApp.pdb (Full PDB)
